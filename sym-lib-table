@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LOCAL")(type "KiCad")(uri "${KIPRJMOD}/LOCAL.kicad_sym")(options "")(descr ""))
+  (lib (name "stm32g071gbu")(type "KiCad")(uri "${KIPRJMOD}/stm32g071gbu.kicad_sym")(options "")(descr ""))
+)
